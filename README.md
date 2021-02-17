@@ -2,6 +2,8 @@
 
 A compiler for customized tiger language frontend + backend
 
+\* Note: The frontend is not completed.
+
 # Example syntax
 
 ```
